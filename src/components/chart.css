@@ -1,0 +1,35 @@
+.charts {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 20px;
+}
+
+.chart {
+    width: 90vw;
+    height: 60vh;
+}
+
+.metric-btn {
+    font-size: large;
+    font-weight: 600;
+    border: #35A8E0 2px solid;
+}
+
+.metric-btn:hover {
+    border: #35A8E0 2px solid;
+    margin-top: -5px;
+    --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.active-metric {
+    border: #35A8E0 2px solid;
+    background-color: #35A8E0;
+    color: white;
+}
+
+.inactive-metric {
+    border: #35A8E0 2px solid;
+    color: #35A8E0;
+    background-color: white;
+}

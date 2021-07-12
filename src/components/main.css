@@ -1,0 +1,36 @@
+.tab-btn {
+    color: #0fa5f0;
+    padding-bottom: 16px;
+    font-size: 18px;
+    margin-top: 10px;
+    border-radius: 0;
+    border-bottom: white 4px solid;
+}
+
+.tab-btn:hover {
+    border-radius: 0;
+    color: #0f70f0;
+    border-bottom: #0fa5f0 4px solid;
+}
+
+.active-tab {
+    color: #0f70f0;
+    border-bottom: #0f70f0 4px solid;
+}
+
+.active-tab:hover {
+    color: #0f70f0;
+    border-bottom: #0f70f0 4px solid;
+}
+
+.content {
+    display: none;
+}
+
+.active-content {
+    display: block;
+}
+
+.inactive {
+    border:none;
+}
