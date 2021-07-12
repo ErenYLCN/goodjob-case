@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/goodjob-case/static/css/main.f5ac2b85.chunk.css",
+    "main.js": "/goodjob-case/static/js/main.eb6e8d1e.chunk.js",
+    "main.js.map": "/goodjob-case/static/js/main.eb6e8d1e.chunk.js.map",
+    "runtime-main.js": "/goodjob-case/static/js/runtime-main.3d5a3115.js",
+    "runtime-main.js.map": "/goodjob-case/static/js/runtime-main.3d5a3115.js.map",
+    "static/css/2.c13f97bf.chunk.css": "/goodjob-case/static/css/2.c13f97bf.chunk.css",
+    "static/js/2.3784aac5.chunk.js": "/goodjob-case/static/js/2.3784aac5.chunk.js",
+    "static/js/2.3784aac5.chunk.js.map": "/goodjob-case/static/js/2.3784aac5.chunk.js.map",
+    "static/js/3.458a39b1.chunk.js": "/goodjob-case/static/js/3.458a39b1.chunk.js",
+    "static/js/3.458a39b1.chunk.js.map": "/goodjob-case/static/js/3.458a39b1.chunk.js.map",
+    "index.html": "/goodjob-case/index.html",
+    "static/css/2.c13f97bf.chunk.css.map": "/goodjob-case/static/css/2.c13f97bf.chunk.css.map",
+    "static/css/main.f5ac2b85.chunk.css.map": "/goodjob-case/static/css/main.f5ac2b85.chunk.css.map",
+    "static/js/2.3784aac5.chunk.js.LICENSE.txt": "/goodjob-case/static/js/2.3784aac5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5a3115.js",
+    "static/css/2.c13f97bf.chunk.css",
+    "static/js/2.3784aac5.chunk.js",
+    "static/css/main.f5ac2b85.chunk.css",
+    "static/js/main.eb6e8d1e.chunk.js"
+  ]
+}
